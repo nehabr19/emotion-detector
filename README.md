@@ -14,40 +14,40 @@ Key Features:
 
 Technologies Used
 
-Streamlit: For creating an interactive web application that allows users to upload images and view results in real-time.
+1. Streamlit: For creating an interactive web application that allows users to upload images and view results in real-time.
 
-OpenCV: To handle image processing tasks such as converting images to the required format.
+2. OpenCV: To handle image processing tasks such as converting images to the required format.
 
-DeepFace: A deep learning framework used to perform emotion detection from facial expressions.
+3. DeepFace: A deep learning framework used to perform emotion detection from facial expressions.
 
 
 How It Works
 
-Image Upload: Users upload an image file (in formats such as JPG, JPEG, or PNG) through the Streamlit interface.
+1. Image Upload: Users upload an image file (in formats such as JPG, JPEG, or PNG) through the Streamlit interface.
 
-Image Processing: The uploaded image is processed to ensure compatibility with the emotion detection model.
+2. Image Processing: The uploaded image is processed to ensure compatibility with the emotion detection model.
 
-Emotion Detection: The DeepFace library analyzes the facial features in the image and predicts the emotions present.
+3. Emotion Detection: The DeepFace library analyzes the facial features in the image and predicts the emotions present.
 
-Results Display: Detected emotions and their respective confidence scores are displayed on the interface. The dominant emotion is highlighted as the primary emotion detected in the image.
+4. Results Display: Detected emotions and their respective confidence scores are displayed on the interface. The dominant emotion is highlighted as the primary emotion detected in the image.
 
 
 Applications
 
-Customer Experience: Enhancing user interactions by understanding emotional responses.
+1. Customer Experience: Enhancing user interactions by understanding emotional responses.
 
-Mental Health: Assisting in monitoring emotional states in therapeutic settings.
+2. Mental Health: Assisting in monitoring emotional states in therapeutic settings.
 
-Security: Identifying emotional cues in security and surveillance applications.
+3. Security: Identifying emotional cues in security and surveillance applications.
 
 
 Future Enhancements
 
-Real-Time Emotion Detection: Implementing live video analysis to detect emotions in real-time.
+1. Real-Time Emotion Detection: Implementing live video analysis to detect emotions in real-time.
 
-Multi-Facial Analysis: Extending functionality to detect and analyze emotions of multiple individuals in a single image.
+2. Multi-Facial Analysis: Extending functionality to detect and analyze emotions of multiple individuals in a single image.
 
-Enhanced Accuracy: Improving the model with additional training data and advanced techniques to increase accuracy.
+3. Enhanced Accuracy: Improving the model with additional training data and advanced techniques to increase accuracy.
 
 
 Conclusion
